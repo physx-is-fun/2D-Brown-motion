@@ -3,4 +3,4 @@ Here we can simulate the motion of a single particle in gas phase. By running ov
 
 Dependencies:
 
-NI Labview 2016 (National Instruments)
+NI Labview Community edition
