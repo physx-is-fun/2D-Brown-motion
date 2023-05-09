@@ -1,6 +1,6 @@
-# 2D Brown motion of a particle.
-Here we can simulate the motion of a single particle in gas phase. By running over 1000 simulations we can plot the histogram of the total distance of the motions.
+# Részecske 2D Brown mozgása.
+Itt szimulálhatjuk egyetlen részecske mozgását gázfázisban. Több mint 1000 szimuláció futtatásával megrajzolhatjuk a mozgások megtett útjának hisztogramját.
 
-Dependencies:
+Függőségek:
 
 Labview 2023 Q1 Community Edition
